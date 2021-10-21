@@ -18,7 +18,7 @@ Choose color 'Custom', Windows mode 'Light', App mode 'Dark'
 - Turn off Desktop Icons
 As this skin is meant to replace your desktop icons, here is how to turn them off
 Right-click on Desktop > View > Uncheck 'Show desktop icons'
-Alternatively, you can delete them or move them somewhere else. To get rid of the Recycle Bin
+Alternatively, you can delete them or move them somewhere else. To get rid of the Recycle Bin
 Settings > Personalisation > on the left 'Themes' > Under Related Settings 'Desktop icon settings' > Uncheck 'Recycle Bin'
 
 - Change scaling on High-DPI Screens
