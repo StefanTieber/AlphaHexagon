@@ -1,4 +1,4 @@
 [Variables]
 Hitbox=#HitboxLight#
-FontColor=#DarkGray#
-LineColor=#DarkGray#
+ActiveTint=0
+InactiveTint=64

@@ -1,3 +1,4 @@
 [Variables]
 Hitbox=#HitboxLight#
-ActiveColor=#DarkGray#
+ActiveColor=#Black#
+InactiveColor=#DarkGray#
