@@ -40,9 +40,9 @@ theAzack9 for the Drag&Drop plugin
 tjhrulz for the WebNowPlaying plugin  
 
 **Changelog**
-- 1.1
-Add 'Light Switch'
-Add fading to 'System Monitor' and 'Music Control'
-Change Gimp icon
-Update Gmail and Edge icon
-Update WebNowPlaying plugin to version 0.5.0.0
+- 1.1  
+Add 'Light Switch'  
+Add fading to 'System Monitor' and 'Music Control'  
+Change Gimp icon  
+Update Gmail and Edge icon  
+Update WebNowPlaying plugin to version 0.5.0.0  
