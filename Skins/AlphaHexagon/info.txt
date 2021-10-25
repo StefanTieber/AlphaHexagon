@@ -4,7 +4,7 @@ What you should know
 - Tiles can be refreshed by middle-clicking them. (pressing the mouse wheel down)
 - Tiles snap to an invisible grid when refreshed. This can also be turned off.
 - You can drag and drop a file on a tile, which moves the file to the corresponding folder, including the Recycle Bin and Dropbox. (if you have the client)
-- There is a 'Music Control' which consists of 3 tiles to control your music. (Previous, Play/Pause, Next)
+- There is a 'Music Control' which consists of 3 tiles to control your music. (Previous, Play/Pause, Next) You will probably need some additional software to make it work.
 - Settings can be changed in AlphaHexagon\@Resources\settings.inc
 - AlphaHexagon\Wallpaper\Wallpaper.ini automatically sets the included wallpaper depending on the resolution of your screen. You can load or unload it depending on if you want this behavior.
 - Some tiles will have a wrong filepath or no filepath at all. You will need to change/add it manually.
@@ -30,3 +30,11 @@ Special Thanks to
 APIUM for inspiring this skin
 theAzack9 for the Drag&Drop plugin
 tjhrulz for the WebNowPlaying plugin
+
+Changelog
+- 1.1
+Add 'Light Switch'
+Add fading to 'System Monitor' and 'Music Control'
+Change Gimp icon
+Update Gmail and Edge icon
+Update WebNowPlaying plugin to version 0.5.0.0
